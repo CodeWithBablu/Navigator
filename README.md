@@ -20,7 +20,7 @@ https://github.com/CodeWithBablu/Navigator/assets/59352323/c0924575-2a3e-4ce8-b0
 <p>1. Get the latest snapshot</p>
 
 ```
-git clone https://github.com/CodeWithBablu/Auth-Remastered.git
+git clone [https://github.com/CodeWithBablu/Auth-Remastered.git](https://github.com/CodeWithBablu/Navigator.git)
 ```
 
 <p>2. Install NPM dependencies</p>
